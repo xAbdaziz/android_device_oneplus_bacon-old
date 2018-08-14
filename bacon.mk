@@ -361,6 +361,10 @@ $(call inherit-product-if-exists, vendor/oneplus/bacon/bacon-vendor.mk)
 PRODUCT_PACKAGES += \
     OnePlusDoze
 
+# OneplusShit
+PRODUCT_PACKAGES += \
+    OneplusShit
+
 # DRM
 PRODUCT_PACKAGES += \
     android.hardware.drm@1.0-impl
