@@ -421,4 +421,7 @@
         <item>LPP_PROFILE=0</item>
         <item>A_GLONASS_POS_PROTOCOL_SELECT=0</item>
     </string-array>
+	
+    <!-- Whether or not swipe up gesture is enabled by default -->
+    <bool name="config_swipe_up_gesture_default">false</bool>
 </resources>
