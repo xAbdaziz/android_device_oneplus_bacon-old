@@ -19,7 +19,7 @@ DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
 # AOSP Packages
 PRODUCT_PACKAGES += \
-    Launcher3 \
+    Lawnchair \
     messaging \
     Terminal
 
