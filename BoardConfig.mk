@@ -16,7 +16,7 @@
 #
 
 # inherit from Oppo common
--include device/oppo/common/BoardConfigCommon.mk
+-include device/oneplus/bacon/BoardConfigCommon.mk
 
 PLATFORM_PATH := device/oneplus/bacon
 
