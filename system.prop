@@ -93,6 +93,11 @@ persist.timed.enable=true
 persist.vendor.qti.inputopts.enable=true
 persist.vendor.qti.inputopts.movetouchslop=0.6
 
+# Fling velocities
+ro.min.fling_velocity=160
+ro.max.fling_velocity=20000
+
+
 # Wifi
 wifi.interface=wlan0
 
